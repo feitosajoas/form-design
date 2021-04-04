@@ -1,6 +1,6 @@
 # Design de formulário para estudos
 
-TODO:
+TO DO:
 >Preciso implementar, baseado no bootstrap 5 a solução para responsividade desse layout de formulário. Por enquanto ele ainda está sem a responsividade,
 pois ainda tem alguns css custom que fiz baseado nos cursos feitos até agora.
 
